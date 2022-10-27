@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi I'm Sviatoslav 👋 Python-developer & radio engineer
 Yandex.Practicum graduate
+Languages and Tools: python, Django, DRF, SQLite, PostrgreSQL, Docker, Docker-compose, pytest, Nginx, Yandex Cloud
+
+https://www.codewars.com/users/Sviatoslav_I 5 kyu
 
 <!--
 **Sviatoslavvvik/Sviatoslavvvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
